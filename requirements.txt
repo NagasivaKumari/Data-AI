@@ -1,0 +1,10 @@
+# Python standard library only — no external dependencies required
+# The ranking system uses only built-in modules:
+# - json
+# - csv
+# - re
+# - math
+# - argparse
+# - sys
+# - time
+# - collections
