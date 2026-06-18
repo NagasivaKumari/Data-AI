@@ -1,0 +1,15 @@
+*.pyc
+__pycache__/
+[PUB] India_runs_data_and_ai_challenge/
+extract_docs.py
+preview_samples.py
+scan_data.py
+inspect_candidates.py
+read_ppt.py
+update_ppt.py
+fix_chars.py
+test_output.csv
+README.txt
+submission_spec.txt
+job_description.txt
+redrob_signals_doc.txt
